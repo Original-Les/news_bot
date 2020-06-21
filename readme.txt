@@ -3,6 +3,13 @@ src= https://www.youtube.com/watch?v=1UMHhJEaVTQ&list=PLCrU-fJHyC3sVq98fHh2h3fZX
 
 Build a bot that filters feeds based on interests and sends links to email.
 
+Tools:
+ - Install redis memory store
+ - pip3 install python redis client
+ - import requests module to fetch page
+ - import beautifulsoup to parse markup
+
+
 Required:
 
 1. Need a source
